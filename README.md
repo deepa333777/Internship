@@ -1,2 +1,1 @@
-#Internship
-of Job Analytics Portal
+#Internship of Job Analytics Portal
